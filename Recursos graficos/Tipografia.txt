@@ -1,0 +1,3 @@
+Tipo de tipografia: Inter
+Tipo de relleno: Bold
+Tamaño: 20px 
